@@ -1,4 +1,4 @@
-# Losville
+# Lostville
 
 Hra vypráví o Johnovém prvním poválečném dni v Lostville.
 John se vrací z Itálie, kde sloužil americké armádě v boji. 
